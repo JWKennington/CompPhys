@@ -1,0 +1,17 @@
+name: compphys-env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - coverage
+  - jupyter
+  - matplotlib
+  - numpy
+  - plotly
+  - pytest
+  - pytest-mock
+  - python=3.8
+  - scipy
+  - sympy
